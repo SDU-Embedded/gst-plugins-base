@@ -8,6 +8,7 @@ pbutils_sources = [
   'install-plugins.c',
   'missing-plugins.c',
   'gstaudiovisualizer.c',
+  'gstaudioeventemitter.c',
   'gstdiscoverer.c',
   'gstdiscoverer-types.c'
   ]
